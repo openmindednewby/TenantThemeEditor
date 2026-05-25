@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "Theme Editor",
+    "subtitle": "Customize your tenant branding"
+  },
+  "editor": {
+    "presets": {
+      "title": "Presets",
+      "description": "Choose a preset as a starting point",
+      "applyPreset": "Apply {{p1}} preset",
+      "active": "Active"
+    },
+    "colors": {
+      "title": "Colors",
+      "description": "Customize your brand colors",
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "accent": "Accent",
+      "shadeScale": "Shade Scale",
+      "semantic": "Semantic Colors",
+      "success": "Success",
+      "warning": "Warning",
+      "error": "Error",
+      "info": "Info"
+    },
+    "mode": {
+      "title": "Light & Dark Mode",
+      "description": "Customize colors for each mode",
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "background": "Background",
+      "surface": "Surface",
+      "surfaceElevated": "Surface Elevated",
+      "text": "Text",
+      "textSecondary": "Text Secondary",
+      "border": "Border",
+      "divider": "Divider"
+    },
+    "typography": {
+      "title": "Typography",
+      "description": "Configure font and heading sizes",
+      "fontFamily": "Font Family",
+      "headingScale": "Heading Scale",
+      "preview": "Preview"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Upload your logo and favicon",
+      "logo": "Logo",
+      "favicon": "Favicon",
+      "uploadLogo": "Upload Logo",
+      "uploadFavicon": "Upload Favicon",
+      "dragDrop": "Drag and drop or click to upload",
+      "removeLogo": "Remove logo",
+      "removeFavicon": "Remove favicon"
+    },
+    "preview": {
+      "title": "Live Preview",
+      "button": "Button",
+      "primaryButton": "Primary Button",
+      "secondaryButton": "Secondary",
+      "outlineButton": "Outline",
+      "card": "Card Title",
+      "cardBody": "This is a preview card showing how content looks with the current theme settings.",
+      "formLabel": "Email Address",
+      "formPlaceholder": "you@example.com",
+      "sidebar": "Sidebar",
+      "dashboard": "Dashboard",
+      "settings": "Settings",
+      "users": "Users",
+      "reports": "Reports",
+      "heading1": "Heading 1",
+      "heading2": "Heading 2",
+      "heading3": "Heading 3",
+      "bodyText": "This is body text that demonstrates the current typography settings."
+    },
+    "actions": {
+      "save": "Save Theme",
+      "reset": "Reset",
+      "saving": "Saving...",
+      "saved": "Theme saved successfully",
+      "error": "Failed to save theme"
+    }
+  }
+}
