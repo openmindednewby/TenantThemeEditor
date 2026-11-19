@@ -1,0 +1,11 @@
+{
+  "e2e/tests/editor-basic.spec.ts": {
+    "max-lines": 1
+  },
+  "src/stores/__tests__/useThemeEditorStore.stress.test.ts": {
+    "max-lines": 1
+  },
+  "src/utils/palette-generator.test.ts": {
+    "max-lines": 1
+  }
+}
