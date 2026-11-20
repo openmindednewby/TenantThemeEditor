@@ -7,7 +7,7 @@
 import { injectThemeVariables } from '../theme-injector';
 
 import { DEFAULT_THEME_CONFIG } from '@/presets';
-import type { TenantThemeConfig, ThemeModeColors } from '@/types';
+import type { TenantThemeConfig } from '@/types';
 
 // -- Helpers ------------------------------------------------------------------
 
